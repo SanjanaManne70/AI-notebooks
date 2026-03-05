@@ -1,0 +1,9 @@
+BVBPS, 10th grade students information
+======================================
+
+Name		BirthDay 		email
+-----		----------		--------
+Virat		5 June, 1882		virat@kohli.com
+Rohit		12 April, 2001		rohit@sharma.com
+Dhoni		24 June, 1998		dhoni@williams.com
+Rahul		1 May,1997		rahul@root.com

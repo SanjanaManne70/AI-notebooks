@@ -1,0 +1,3 @@
+in git bash
+>>source tf_env/Scripts/activate
+>>jupyter notebook
