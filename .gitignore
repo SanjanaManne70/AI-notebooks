@@ -1,0 +1,14 @@
+# Ignore datasets
+*.json
+*.csv
+*.zip
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+
+# Virtual environments
+venv/
+env/
